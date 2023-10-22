@@ -27,12 +27,16 @@ class Page {
     private $css;
 
 
+    /**
+     * log a message to the website at the top
+     */
     function log($message) {
         $message = date("H:i:s") . " - $message - ".PHP_EOL;
         print($message);
         flush();
         ob_flush();
     }
+
     /**
      * load code from a local file
      * path is either 
@@ -47,8 +51,7 @@ class Page {
 
         // directory path
         $dir = __DIR__ . '/app' . $path;
-        $this->log("dir: $dir");
-        
+
         // check for trailing / sign and remove it
         if ($dir[-1] == "/") {
             $dir = substr($dir, 0, strlen($dir)-1);
