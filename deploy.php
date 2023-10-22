@@ -38,7 +38,7 @@ if (@$headers["X-Forwarded-For"]) {
 } else {
     $ip = $_SERVER['REMOTE_ADDR'];
 }
-$log = "access attempt from $ip";
+$log = "access attempt from $ip\n";
 file_put_contents ('deploy-access.txt',$log,FILE_APPEND);
 
 foreach ($allowed_ips as $allow) {
