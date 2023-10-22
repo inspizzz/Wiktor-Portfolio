@@ -374,7 +374,7 @@
         </script>
 
         <div id="top">
-            <a> Wiktor Wiejak</a>
+            <a> Wiiktor Wiejak</a>
         </div>
     </div>
 
