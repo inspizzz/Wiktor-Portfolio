@@ -83,8 +83,9 @@ foreach($commands AS $command){
 
     $log  .= "\$ $command\n".trim($tmp)."\n";
 }
+$log .= "accessed from ip $ip\n";
+$log .= "\n\n\n";
 
-$log .= "\n";
 
 file_put_contents ('deploy-log.txt',$log,FILE_APPEND);
 
