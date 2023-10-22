@@ -1,5 +1,7 @@
 <div id="main">
-    <h1>Projects</h1>
-    <p>Here are some of the projects I have worked on in the past.</p>
-
+    <div id="top-background">
+        <div id="top">
+            <a> Projects </a>
+        </div>
+    </div>
 </div>

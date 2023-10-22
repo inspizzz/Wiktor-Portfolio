@@ -1,6 +1,8 @@
 <div id="main">
-    <div id="secondary-school">
-
+    <div id="top-background">
+        <div id="top">
+            <a> About </a>
+        </div>
     </div>
 </div>
 
