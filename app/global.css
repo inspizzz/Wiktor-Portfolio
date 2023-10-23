@@ -18,10 +18,12 @@
 	--secondary: #F1E0B1;
 	--accent: #B68E20;
 
-	--textColor: rgb(0, 0, 0);
+	--textColor1: rgb(0, 0, 0);
 	--textColor2: #888888;
 	--gradient: linear-gradient(to top right, var(--primary), var(--secondary));
 
+	--border-radius: 10px;
+	
 	font-family: "MyWebFont";
 }
 
@@ -68,6 +70,11 @@ a {
 
 p {
 	margin: 0;
+}
+
+.page-padding {
+	padding-left: 14%;
+	padding-right: 14%;
 }
 
 
