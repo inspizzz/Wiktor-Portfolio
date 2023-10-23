@@ -22,7 +22,7 @@
         </style>
 
 
-        <title>Wiktors Portfolio</title>
+        <title>Wiiiktors Portfolio</title>
     </head>
 
     <body>
