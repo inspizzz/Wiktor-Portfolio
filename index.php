@@ -15,6 +15,7 @@
 
 		<!-- apply js -->
 		<script src="scripts/newsletter.js"></script>
+		<script src="scripts/refer.js"></script>
 
         <!-- inject css here -->
         <style>
