@@ -36,7 +36,7 @@
 			<span>
 				<div id="dropdown">
 					
-					<a href="about"> About </a>
+					<a href="/about"> About </a>
 					<div id="dropdown-content">
 						<a href="about">Info</a>
 						<a href="about">Contact</a>
@@ -46,7 +46,7 @@
 
 				<div id="dropdown">
 					
-					<a href="projects"> Projects </a>
+					<a href="/projects"> Projects </a>
 					<div id="dropdown-content">
 						<a href="projects">MySoc</a>
 						<a href="projects">NNFS</a>
@@ -57,7 +57,7 @@
 
 				<div id="dropdown">
 					
-					<a href="experience"> Experience </a>
+					<a href="/experience"> Experience </a>
 					<div id="dropdown-content">
 						<a href="experience">Principle One</a>
 						<a href="experience">Research Intern</a>
