@@ -38,7 +38,7 @@
         <!--  -->
         <a class="project" href="/projects/particles">
             <div>
-                <!-- <img src="/" /> -->
+                <img class="project-image" src="/resources/particles.jpg" />
             </div>
             <div class="description"> 
                 <h1> Particle Simulator </h1>

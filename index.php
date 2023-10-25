@@ -11,7 +11,7 @@
     <head> 
         <!-- apply global css and things -->
         <link rel="stylesheet" href="/app/global.css" />
-        <link rel="icon" href="resources/icon.png" type="image/x-icon"/>
+        <link rel="icon" href="/resources/icon.png" type="image/x-icon"/>
 
 		<!-- apply js -->
 		<script src="scripts/newsletter.js"></script>
@@ -31,7 +31,7 @@
 		<!-- thing -->
         <section id="top-bar">
             <a href="/">
-                <img src="resources/icon1.png"/> 
+                <img src="/resources/icon1.png"/> 
             </a>
 			<span>
 				<div id="dropdown">
@@ -92,10 +92,10 @@
 					<input type="button" value="SUBSCRIBE" onclick="emailSubmit()"/>
 
 					<div id="footer-social">
-						<a href="mailto:ww414@exeter.ac.uk" target="_blank"> <img src="resources/outlook.png"/> </a>
-						<a href="mailto:wiktor.wiejak@gmail.com" target="_blank"> <img src="resources/gmail.png"/> </a>
-						<a href="https://www.linkedin.com/in/wiktor-wiejak-703b60206/" target="_blank"> <img src="resources/linkedIn.png"/> </a>
-						<a href="tel:+447708644661" target="_blank"> <img src="resources/phoneNumber.png"/> </a>
+						<a href="mailto:ww414@exeter.ac.uk" target="_blank"> <img src="/resources/outlook.png"/> </a>
+						<a href="mailto:wiktor.wiejak@gmail.com" target="_blank"> <img src="/resources/gmail.png"/> </a>
+						<a href="https://www.linkedin.com/in/wiktor-wiejak-703b60206/" target="_blank"> <img src="/resources/linkedIn.png"/> </a>
+						<a href="tel:+447708644661" target="_blank"> <img src="/resources/phoneNumber.png"/> </a>
 					</div>
 				</div>
 			</div>
