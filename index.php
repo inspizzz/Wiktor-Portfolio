@@ -38,9 +38,9 @@
 					
 					<a href="/about"> About </a>
 					<div id="dropdown-content">
-						<a href="about">Info</a>
-						<a href="about">Contact</a>
-						<a href="about">🚧 more coming 🚧</a>
+						<a href="/about">Info</a>
+						<a href="/about">Contact</a>
+						<a href="/about">🚧 more coming 🚧</a>
 					</div>
 				</div>
 
@@ -48,10 +48,11 @@
 					
 					<a href="/projects"> Projects </a>
 					<div id="dropdown-content">
-						<a href="projects">MySoc</a>
-						<a href="projects">NNFS</a>
-						<a href="projects">EXCS</a>
-						<a href="projects">🚧 more coming 🚧</a>
+						<a href="/projects#8bit">8 Bit Computer</a>
+						<a href="/projects#mysoc">MySoc</a>
+						<a href="/projects#particles">Particles</a>
+						<a href="/projects#nnfs">NNFS</a>
+						<a href="/projects">🚧 more coming 🚧</a>
 					</div>
 				</div>
 
@@ -59,9 +60,11 @@
 					
 					<a href="/experience"> Experience </a>
 					<div id="dropdown-content">
-						<a href="experience">Principle One</a>
-						<a href="experience">Research Intern</a>
-						<a href="experience">🚧 more coming 🚧</a>
+						<a href="/experience#principleOne">Principle One</a>
+						<a href="/experience#research">Research Intern</a>
+						<a href="/experience#excs">EXCS</a>
+						<a href="/experience#academicOfficer">Academic Officer</a>
+						<a href="/experience">🚧 more coming 🚧</a>
 					</div>
 				</div>
 			</span>
