@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'MyWebFont';
     src: url('/fonts/Inter-Black.ttf') format('truetype');
 	src: url('/fonts/Inter-Bold.ttf')  format('truetype');
@@ -9,7 +9,7 @@
 	src: url('/fonts/Inter-Regular.ttf')  format('truetype');
 	src: url('/fonts/Inter-SemiBold.ttf')  format('truetype');
 	src: url('/fonts/Inter-Thin.ttf')  format('truetype');
-}
+} */
 
 :root {
 	--background: #FFFFFF;
@@ -24,7 +24,7 @@
 
 	--border-radius: 10px;
 	
-	font-family: "MyWebFont";
+	/* font-family: "MyWebFont"; */
 }
 
 body {
