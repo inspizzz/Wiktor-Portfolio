@@ -52,6 +52,7 @@
 						<a href="/projects#mysoc">MySoc</a>
 						<a href="/projects#particles">Particles</a>
 						<a href="/projects#nnfs">NNFS</a>
+						<a href="/projects#f24">F24</a>
 						<a href="/projects">🚧 more coming 🚧</a>
 					</div>
 				</div>
@@ -78,16 +79,16 @@
 			<div id="footer-top">
 				<div id="footer-general">
 					<h1 href="/"> Wiktor Wiejak </h1>
-					<a href="about"> Contact Info </a>
+					<a href="/about"> Contact Info </a>
 					<a href="/"> Privacy Policy </a>
 				</div>
 
 				<div id="footer-sitemap">
 					<h1> Sitemap </h1>
 					<a href="/"> Home </a>
-					<a href="about"> About </a>
-					<a href="projects"> Projects </a>
-					<a href="experience"> Experience </a>
+					<a href="/about"> About </a>
+					<a href="/projects"> Projects </a>
+					<a href="/experience"> Experience </a>
 				</div>
 
 				<div id="footer-subscribe">
