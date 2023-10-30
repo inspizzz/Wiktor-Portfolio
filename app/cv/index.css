@@ -1,0 +1,9 @@
+.container {
+    padding: 50px;
+}
+
+.pdf {
+    display: flex;
+    width: 500px;
+    height: 500px;
+}
