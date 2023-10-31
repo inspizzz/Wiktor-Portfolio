@@ -1,0 +1,45 @@
+
+.a {
+    width: 70vw;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+table {
+    width: 70%;
+    padding: 10px;
+}
+
+th {
+    background-color: var(--primary);
+    color: white;
+    align-items: center;
+}
+
+td {
+    text-align: center;
+    font-size: var(--font-size);
+    background-color: var(--secondary);
+
+    /* if mobile */
+    @media (max-width: 768px) {
+        font-size: var(--font-size-mobile);
+    }
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.inputv:hover {
+    background-color: var(--primary);
+    color: white;
+}
+
+.main {
+    height: 100%;
+}
