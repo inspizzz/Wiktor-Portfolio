@@ -58,7 +58,7 @@
                 
                 // check if the response is good, otherwise print error
                 if (this.readyState == 4 && this.status == 200) {
-
+                    console.log(this.responseText)
                     // parse the results
                     var result = JSON.parse(this.responseText)
                     
