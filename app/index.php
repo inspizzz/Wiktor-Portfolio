@@ -401,9 +401,9 @@
         <div class="inside">
             <div class="text-container">
                 <h1> Looking for an internship </h1>
-                <p> I am currently looking for a summer internship for 2024. I am looking for a role in software development, preferably in the financial sector. </p>
-                <p> I am a hard working and dedicated individual who is always looking to learn new skills and improve my current ones. I am a quick learner and have a passion for software development. </p>
-                <p> If you are interested in hiring me please take a look at my cv below and contact me. I always love to get on call and chat about current topics or opportunities  </p>
+                <p> Currently I am looking for a software development summer internship for 2024. </p>
+                <p> I am a hard working and dedicated individual who is always looking to learn new skills and improve my current ones. Being a quick learner and having a passion for software development makes me an ideal candidate for any company! </p>
+                <p> If you are interested in hiring me please take a look at my cv below and contact me. I always love to get on call and chat about current topics or opportunities :)  </p>
     
                 <div>
                     <a href="cv"> <img src="resources/pdf.png" class="icon"/> </a>
