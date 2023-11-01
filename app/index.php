@@ -389,7 +389,7 @@
             <div class="text-container">
                 <h1> About me </h1>
                 <p> Hi! My name is Wiktor and I am a software developer. I'm currently studying Computer Science at the university of Exeter. </p>
-                <p> At the moment I am in the second year of my course. In addition to my academic interests I am also volunteering at the Computer Science Society. </p>
+                <p> At the moment I am in the second year of my course. In addition to my academic interests I am also volunteering at the Computer Science Society, my role encompasses organising academic events such as hackathons and talks for our community </p>
                 <p> Outside of university life I love to maintain and ride my road bikes as well as mess around with ic chips which I am currently using to build and 8-bit computer.</p>
             </div>
         </div>
