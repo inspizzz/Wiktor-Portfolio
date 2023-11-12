@@ -4,6 +4,11 @@
         <h1> 8-Bit Computer! </h1>
     </div>
 
+    <div class="overview">
+        <p>Welcome to my 8 bit computer project! Over last summer I started researching into how 8 bit computers could potentially function and decided to start a long term project learning about and eventually assembling one!</p>
+        <p>Since beginning the project officially on the 11th October 2023, I am going to be updating this page with recent successes and difficulties encountered with this project.</p>
+    </div>
+
     <section class="post">
         <div class="post-heading">
             <h2> Our First Meeting! </h2>
