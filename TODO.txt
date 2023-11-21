@@ -1,0 +1,5 @@
+- move the newsletter outside of this folder to prevent open access
+- verify oath emails using php as well as prevent more than 1 email per day
+- reorganise the resources
+- add content to other projects 
+- add content to about page

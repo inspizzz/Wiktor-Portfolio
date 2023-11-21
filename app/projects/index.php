@@ -29,7 +29,7 @@
 
             <div class="description"> 
                 <h1> MySoc </h1>
-                <p> Since beginning university teo friends of mine have found incredible difficulty with organising society events, stash, elections and messages. We decided to do something about this and started brainstorming solutions as well as joining a University led programme called the pre-incubator to help with out business knowledge. </p>
+                <p> Since beginning university a vast majority of people I know have found incredible difficulty with organising society events, stash, elections and messages. We decided to do something about this and started brainstorming solutions as well as joining a University led programme called the pre-incubator to help with out business knowledge. </p>
                 <p> From there we allocated time each week for scrum meetings to discuss progress that had been made, perform code review and also discuss future tasks at hand that needed to be completed to meet the goals of our MVP. </p>
                 <p> Neering the end of the pre-incubator course, we applied to pitch our startup idea to a panel of judges, both from the pre-incubator and incubator programs. After preparing diligently and practicing our pitch, we were successful and received funding for executing more market research and developing our MVP. </p>
             </div>

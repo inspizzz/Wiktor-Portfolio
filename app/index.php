@@ -440,7 +440,7 @@
         <div class="inside">
             <div class="text-container">
                 <h1> Recent Project Blog </h1>
-                <p> Recently i have been hosting 8 bit computer sessions and decided to update our progress of this on my website! </p>
+                <p> Recently I have been hosting 8 bit computer sessions and decided to update our progress of this on my website! </p>
                 <p> I have been working on this project for a while now and having the opportunity to share our discoveries and difficulties while creating this means a lot to me. In hopes that I encourage as many people as possible to try and replicate what I have accomplished so far I began drafting a book where I outline all the necessary knowledge and details required for this </p>
                 <p> I've also taken the liberty to upload a pdf version of this to my website so that you, the reader, may have the best tools at hand to attempt to recreate this! </p>
                 <a href="projects/8bit" class="button"> Check it out! </a>
@@ -449,6 +449,30 @@
             <div class="image-container">
                 <img src="resources/8BitDesign.jpg"/>
             </div>
+        </div>
+    </section>
+
+    <!-- add a section with a scrollbar of projects  -->
+
+    <section class="section projects">
+        <div class="box">
+            <h1> Project1 </h1>
+            <img src="resources/8BitWorking.jpg"/>
+        </div>
+
+        <div class="box">
+            <h1> Project1 </h1>
+            <img src="resources/8BitWorking.jpg"/>
+        </div>
+
+        <div class="box">
+            <h1> Project1 </h1>
+            <img src="resources/8BitWorking.jpg"/>
+        </div>
+
+        <div class="box">
+            <h1> Project1 </h1>
+            <img src="resources/8BitWorking.jpg"/>
         </div>
     </section>
 </div>

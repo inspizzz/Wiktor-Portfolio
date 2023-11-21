@@ -11,6 +11,10 @@
 	src: url('/fonts/Inter-Thin.ttf')  format('truetype');
 } */
 
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+
 :root {
 	--background: #FFFFFF;
 	/* --background: #000000d8; */
@@ -25,7 +29,7 @@
 
 	--border-radius: 10px;
 	
-	/* font-family: "MyWebFont"; */
+	font-family: "Oxygen", sans-serif;
 }
 
 body {
@@ -100,7 +104,7 @@ p {
 
 
 #top-bar a > img {
-	width: 100%;
+	/* width: 100%; */
 	height: 100%;
 	object-fit: contain;
 }

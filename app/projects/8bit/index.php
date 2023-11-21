@@ -65,7 +65,7 @@
 
             <!-- slideshow -->
             <div class="post-images">
-                <img src="/resources/projects/8bit/blog3/1bit-memory.jpg" />
+                <img src="/resources/projects/8bit/personal/1bit-memory.jpg" />
             </div>
         </div>
     </section>
@@ -86,9 +86,51 @@
             <!-- slideshow -->
             <div class="post-images">
                 <video width="320" height="240" controls>
-                    <source src="/resources/projects/8bit/blog4/clock.MP4" type="video/mp4">
+                    <source src="/resources/projects/8bit/blog3/clock.MP4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
+            </div>
+        </div>
+    </section>
+
+    <section class="post">
+        <div class="post-heading">
+            <h2> Personal - Register Build </h2>
+            <p> 8th November 2023 </p>
+        </div>
+
+        <div class="post-body">
+            <div class="post-text">
+                <p> Out of curiosity I assembled a clock module at home as well as two registers interconnected using a bus. I wanted to see if I could transfer some data between registers and it was successful! </p>
+                <p> The registers make use of the 74LS245 chip which allows for bus integration by using a line of tri-state logic inside of the chip either reading from the bus or writing to the bus. This chip allows for easy communication between computer components as well as isolating components when not in use. </p>
+            </div>
+
+            <!-- slideshow -->
+            <div class="post-images">
+                <video width="320" height="240" controls>
+                    <source src="/resources/projects/8bit/personal/clock.MP4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </section>
+
+    <section class="post">
+        <div class="post-heading">
+            <h2> Session 4 - Start Register </h2>
+            <p> 15th November 2023 </p>
+        </div>
+
+        <div class="post-body">
+            <div class="post-text">
+                <p> This week, we recapped what we have achieved the few previous weeks and took a look at the documentation I am writing up to understand what we will be approaching next </p>
+                <p> I have pre-built two registers in advance of the workshop, this was extremely useful for understanding the connections between chips and how they related to each other. After conceptually understanding the way the 74LS173 chip stores data using D Flip Flops, we began to assemble the registers in teams of 2 </p>
+                <p> This week we decided to come along to the open design session which is open to anyone developing projects of their own. We met many cool people at this event while also being able to complete about half of the first register. What caught my attention was one of the guys high resolution ( in the legal range ) infrared camera project and we were able to identify the heat signatures of our power source chip. </p>
+            </div>
+
+            <!-- slideshow -->
+            <div class="post-images">
+            <img src="/resources/projects/8bit/blog4/register_build.jpg" />
             </div>
         </div>
     </section>
