@@ -30,7 +30,7 @@
         <!-- inject the top bar -->
 		<!-- thing -->
         <section id="top-bar">
-            <a href="/">
+            <a style="height: 100%;" href="/">
                 <img src="/resources/icon1.png"/> 
             </a>
 			<span>
