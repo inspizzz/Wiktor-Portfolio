@@ -454,25 +454,46 @@
 
     <!-- add a section with a scrollbar of projects  -->
 
-    <section class="section projects">
-        <div class="box">
-            <h1> Project1 </h1>
-            <img src="resources/8BitWorking.jpg"/>
+    <section class="projects">
+        <div class="space"></div>
+        <div class="box box1">
+            <div class="project-title">
+                <h1> Project1 </h1>
+            </div>
+            
+            <div class="project-image">
+                <img src="resources/8BitWorking.jpg"/>
+            </div>
         </div>
 
-        <div class="box">
-            <h1> Project1 </h1>
-            <img src="resources/8BitWorking.jpg"/>
+        <div class="box box2">
+            <div class="project-title">
+                <h1> Project1 </h1>
+            </div>
+
+            <div class="project-image">
+                <img src="resources/8BitWorking.jpg"/>
+            </div>
         </div>
 
-        <div class="box">
-            <h1> Project1 </h1>
-            <img src="resources/8BitWorking.jpg"/>
+        <div class="box box3">
+            <div class="project-title">
+                <h1> Project1 </h1>
+            </div>
+            
+            <div class="project-image">
+                <img src="resources/8BitWorking.jpg"/>
+            </div>
         </div>
 
-        <div class="box">
-            <h1> Project1 </h1>
-            <img src="resources/8BitWorking.jpg"/>
+        <div class="box box4">
+            <div class="project-title">
+                <h1> Project1 </h1>
+            </div>
+            
+            <div class="project-image">
+                <img src="resources/8BitWorking.jpg"/>
+            </div>
         </div>
     </section>
 </div>
