@@ -456,15 +456,16 @@
 
     <section class="projects">
         <div class="space"></div>
-        <div class="box box1">
+
+        <a class="box box1" href="/projects/8-bit" target="_blank">
             <div class="project-title">
-                <h1> Project1 </h1>
+                <h1> 8 Bit Computer </h1>
             </div>
             
             <div class="project-image">
                 <img src="resources/8BitWorking.jpg"/>
             </div>
-        </div>
+        </a>
 
         <div class="box box2">
             <div class="project-title">

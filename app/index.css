@@ -110,6 +110,21 @@
     }
 }
 
+.projects {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    display: flex;
+    gap: 50px;
+}
+
+.space {
+    width: 100%;
+    height: 600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 .box {
     
     position: absolute;
@@ -123,6 +138,22 @@
 
 .box:hover > .project-image {
     box-shadow: 2px 2px 5px black;
+}
+
+.box1 {
+    animation-delay: 1s;
+}
+
+.box2 {
+    animation-delay: 9s;
+}
+
+.box3 {
+    animation-delay: 17s;
+}
+
+.box4 {
+    animation-delay: 25s;
 }
 
 .project-title {
@@ -143,40 +174,9 @@
     object-fit: cover;
 }
 
-.projects {
-    width: 100%;
-    height: 100%;
-    overflow-x: hidden;
-    display: flex;
-    gap: 50px;
-}
-
-.space {
-    width: 100%;
-    height: 600px;
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-
-.box1 {
-    animation-delay: 1s;
-}
-
-.box2 {
-    animation-delay: 9s;
-}
-
-.box3 {
-    animation-delay: 17s;
-}
-
-.box4 {
-    animation-delay: 25s;
-}
-
 @keyframes slide {
-    0% { transform: translateX(-20vw) }
-    100% { transform: translateX(140vw) }
+    0% { transform: translateX(-100vw) }
+    100% { transform: translateX(200vw) }
     
 }
 

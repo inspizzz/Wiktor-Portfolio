@@ -134,4 +134,24 @@
             </div>
         </div>
     </section>
+
+    <section class="post">
+        <div class="post-heading">
+            <h2> Session 5 - Finish First Register </h2>
+            <p> 22nd November 2023 </p>
+        </div>
+
+        <div class="post-body">
+            <div class="post-text">
+                <p> This week we finished building the first register. As of today both registers have been completed, however one was experiencing connectivity issues likely caused by a short wire as when we pressed on the mess of cables the connection began to work again. </p>
+                <p> Having two registers built by the team and two built by myself we decided to move forward with the project and take a look at the next steps which are either looking into the ALU, Instruction Counter or Random Access Memory. I believe that looking into the ALU, half adders and full adders would be quite interesting so that is what we are going to do in the following weeks. </p>
+                <p> </p>
+            </div>
+
+            <!-- slideshow -->
+            <div class="post-images">
+            <img src="/resources/projects/8bit/blog5/register_complete.jpg" />
+            </div>
+        </div>
+    </section>
 </div>
