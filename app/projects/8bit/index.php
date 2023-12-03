@@ -1,7 +1,7 @@
 <!-- blog post type of format -->
 <div id="main">
     <div class="heading">
-        <h1> 8-Bit Computer! </h1>
+        <h1> 8-Bit Computer (Project Doughnut) </h1>
     </div>
 
     <div class="overview">
