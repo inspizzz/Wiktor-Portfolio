@@ -35,7 +35,6 @@
             </a>
 			<span>
 				<div id="dropdown">
-					
 					<a href="/about"> About </a>
 					<div id="dropdown-content">
 						<a href="/about">Info</a>
@@ -45,8 +44,7 @@
 				</div>
 
 				<div id="dropdown">
-					
-					<a href="/projects"> Projects </a>
+					<a href="/projects">Projects</a>
 					<div id="dropdown-content">
 						<a href="/projects#8bit">8 Bit Computer</a>
 						<a href="/projects#mysoc">MySoc</a>
@@ -58,14 +56,23 @@
 				</div>
 
 				<div id="dropdown">
-					
-					<a href="/experience"> Experience </a>
+					<a href="/experience">Experience</a>
 					<div id="dropdown-content">
 						<a href="/experience#principleOne">Principle One</a>
 						<a href="/experience#research">Research Intern</a>
 						<a href="/experience#excs">EXCS</a>
 						<a href="/experience#academicOfficer">Academic Officer</a>
 						<a href="/experience">🚧 more coming 🚧</a>
+					</div>
+				</div>
+
+				<div id="dropdown">
+					<a href="/aoc"> <small class="accent">new</small>Advent Of Code </a>
+					<div id="dropdown-content">
+						<a href="/aoc/day1">Day 1</a>
+						<a href="/aoc/day2">Day 2</a>
+						<a href="/aoc/day3">Day 3</a>
+						<a href="/aoc/day4">Day 4</a>
 					</div>
 				</div>
 			</span>

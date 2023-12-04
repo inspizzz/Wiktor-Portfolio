@@ -69,12 +69,14 @@ class Page {
 
             // get the files content
             $this->content = file_get_contents("$dir/index.html");
-        
+        }
+
         // file is a php file
-        } elseif (is_file("$dir/index.php"))
+        if (is_file("$dir/index.php")) {
 
             // get the content of the php file
             $this->content = file_get_contents("$dir/index.php");
+        }
 
         // file not found
         else {

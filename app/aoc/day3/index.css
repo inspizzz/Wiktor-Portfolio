@@ -1,0 +1,15 @@
+#main {
+    position: relative;
+    width: 100%;
+    height: fit-content
+}
+
+code {
+    border: none;
+    border-radius: 10px;
+}
+
+.page-margin {
+    margin-left: 14%;
+    margin-right: 14%;
+}
