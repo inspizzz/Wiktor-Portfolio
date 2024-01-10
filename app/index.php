@@ -380,7 +380,7 @@
 
     
     <!-- section about me -->
-    <section class="section" style="background: var(--primary);">
+    <section class="section">
         <div class="inside">
             <div class="image-container">
                 <!-- <img src="resources/wiktor.jpg"/> -->
