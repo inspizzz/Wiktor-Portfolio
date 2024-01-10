@@ -10,7 +10,7 @@
         <!-- 8-bit computer -->
         <a id="8bit" class="project" href="/projects/8bit">
             <div>
-                <img class="project-image" src="/resources/8BitWorking.jpg" />
+                <!-- <img class="project-image" src="/resources/8BitWorking.jpg" /> -->
             </div>
             
             <div class="description"> 
@@ -24,7 +24,7 @@
         <!-- mysoc startup -->
         <a id="mysoc" class="project" href="/projects/mysoc">
             <div>
-                <img class="project-image" src="/resources/MySoc.JPG" />
+                <!-- <img class="project-image" src="/resources/MySoc.JPG" /> -->
             </div>
 
             <div class="description"> 

@@ -383,7 +383,7 @@
     <section class="section" style="background: var(--primary);">
         <div class="inside">
             <div class="image-container">
-                <img src="resources/wiktor.jpg"/>
+                <!-- <img src="resources/wiktor.jpg"/> -->
             </div>
     
             <div class="text-container">
@@ -396,7 +396,7 @@
         
     </section>
 
-    <!-- section about looking for internships -->
+    <!-- section about looking for internships
     <section class="section">
         <div class="inside">
             <div class="text-container">
@@ -416,7 +416,7 @@
                 <img src="resources/developer.jpg"/>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- section about projects -->
     <section class="section" style="background: var(--primary);">
@@ -454,7 +454,7 @@
 
     <!-- add a section with a scrollbar of projects  -->
 
-    <section class="projects">
+    <!-- <section class="projects">
         <div class="space"></div>
 
         <a class="box box1" href="/projects/8-bit" target="_blank">
@@ -496,5 +496,5 @@
                 <img src="resources/8BitWorking.jpg"/>
             </div>
         </div>
-    </section>
+    </section> -->
 </div>

@@ -23,7 +23,7 @@
 
             <!-- slideshow -->
             <div class="post-images">
-                <img src="/resources/projects/8bit/blog1/collaborating.jpg" />
+                <!-- <img src="/resources/projects/8bit/blog1/collaborating.jpg" /> -->
             </div>
         </div>
     </section>
@@ -44,7 +44,7 @@
 
             <!-- slideshow -->
             <div class="post-images">
-                <img src="/resources/projects/8bit/blog2/collaborating.jpg" />
+                <!-- <img src="/resources/projects/8bit/blog2/collaborating.jpg" /> -->
             </div>
         </div>
     </section>
@@ -130,7 +130,7 @@
 
             <!-- slideshow -->
             <div class="post-images">
-            <img src="/resources/projects/8bit/blog4/register_build.jpg" />
+            <!-- <img src="/resources/projects/8bit/blog4/register_build.jpg" /> -->
             </div>
         </div>
     </section>
@@ -150,7 +150,7 @@
 
             <!-- slideshow -->
             <div class="post-images">
-            <img src="/resources/projects/8bit/blog5/register_complete.jpg" />
+            <!-- <img src="/resources/projects/8bit/blog5/register_complete.jpg" /> -->
             </div>
         </div>
     </section>
